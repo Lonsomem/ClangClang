@@ -18,6 +18,9 @@
     <ClCompile Include="Test.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="codeup_1009.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="codeup_1003.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -25,6 +28,15 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="codeup_1005.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="codeup_1006.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="codeup_1007.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="codeup_1008.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
