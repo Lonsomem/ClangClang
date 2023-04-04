@@ -146,7 +146,27 @@
     <ClCompile Include="codeup_1008.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="codeup_1009.cpp" />
+    <ClCompile Include="codeup_1010.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="codeup_1011.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="codeup_1012.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="codeup_1013.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="codeup_1014.cpp" />
+    <ClCompile Include="codeup_1015.cpp" />
+    <ClCompile Include="codeup_1017.cpp" />
+    <ClCompile Include="codeup_1018.cpp" />
+    <ClCompile Include="codeup_1019.cpp" />
+    <ClCompile Include="codeup_1020.cpp" />
+    <ClCompile Include="codeup_1021.cpp" />
+    <ClCompile Include="codeup_1022.cpp" />
+    <ClCompile Include="codeup_1024.cpp" />
     <ClCompile Include="Test.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
